@@ -653,9 +653,9 @@ KILL
 clear
 echo ""
 echo ""
-echo -e $amarillo"╔═══════════════════════════════════════════════════════╗" 
-echo -e $amarillo"║  "$azul"Wireless CryptoVillage a Handshaker "$blanco"v1.5"$azul" by Defcon102"$amarillo"║"
-echo -e "╚═══════════════════════════════════════════════════════╝"
+echo -e $amarillo"╔════════════════════════════════════════════════════════════════════════╗" 
+echo -e $amarillo"║  "$azul"Wireless DEF CON Crypto & Privacy Village Handshaker "$blanco"v1.5"$azul" by Defcon102"$amarillo"║"
+echo -e "╚════════════════════════════════════════════════════════════════════════╝"
 sleep 3
 clear 
 SELECT
